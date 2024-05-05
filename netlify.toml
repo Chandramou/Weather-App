@@ -1,4 +1,8 @@
 [[redirects]]
 from = "/*"
 to = "/weather.html"
+<<<<<<< HEAD
 status = 200
+=======
+status = 200
+>>>>>>> fb3048ae1615febc2acf7351c87bd7516779f6de
